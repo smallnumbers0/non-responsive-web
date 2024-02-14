@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div > p {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 100px;
+}
+
+div {
+    width: 1900px;
+    height: 250px;
+    background-color: blueviolet;
+    border: 5px solid black;
+}
